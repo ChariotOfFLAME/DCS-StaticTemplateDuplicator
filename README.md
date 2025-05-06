@@ -26,7 +26,6 @@ Templates are modified by replacing the `["theatre"]` tag in the `.stm` file and
 - ✅ Automatically updates `"theatre"` values and saves modified copies  
 - ✅ Select/Deselect All buttons for quick operations  
 - ✅ Informative error handling and success dialogs  
-- ✅ One-click build to `.exe` using PyInstaller
 
 ---
 
