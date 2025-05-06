@@ -33,7 +33,7 @@ Templates are modified by replacing the `["theatre"]` tag in the `.stm` file and
 
 ### 0. Save your Template
 
-Static Templates treat the unedited Neutral Bullseye as coordinates [0,0]. This used to be an issue, but now with the multiselect tool, one the steps to saving template for use elsewhere will be moving the units you want to use for the template as close to the original Neutral Bullseye as possible. 
+Static Templates treat the unedited Neutral Bullseye as coordinates [0,0]. This used to be an issue, but now with the multiselect tool, one of the steps to saving template for use elsewhere will be moving the units you want to use for the template as close to the original Neutral Bullseye as possible. 
 
 Due to Nevada having its NB at the very top of the visible map, I highly suggest placing the units directly BELOW NB so you can still see them when you load the template (though the multiselect tool will still work to nab those pesky units above the map)
 
