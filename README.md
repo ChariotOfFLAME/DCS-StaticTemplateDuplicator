@@ -95,8 +95,11 @@ The resulting `.exe` will be in the `/dist` folder.
 ---
 
 ## 🪪 License
+This project is licensed under the MIT License.
 
-This tool is shared informally, without warranty. Feel free to use, share, and modify.
+## Disclaimer
+This tool is an unofficial utility for use with DCS: World. It is not affiliated with, endorsed by, or supported by Eagle Dynamics.
+All trademarks and content related to DCS: World remain the property of Eagle Dynamics and their respective owners.
 
 ---
 
