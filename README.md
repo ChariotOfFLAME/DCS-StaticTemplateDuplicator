@@ -31,6 +31,12 @@ Templates are modified by replacing the `["theatre"]` tag in the `.stm` file and
 
 ## 📂 Usage Instructions
 
+### 0. Save your Template
+
+Static Templates treat the unedited Neutral Bullseye as coordinates [0,0]. This used to be an issue, but now with the multiselect tool, one the steps to saving template for use elsewhere will be moving the units you want to use for the template as close to the original Neutral Bullseye as possible. 
+
+Due to Nevada having its NB at the very top of the visible map, I highly suggest placing the units directly BELOW NB so you can still see them when you load the template (though the multiselect tool will still work to nab those pesky units above the map)
+
 ### 1. Run the Script
 
 Make sure you have Python 3 installed. Then run the script:
@@ -61,7 +67,7 @@ Nevada-myTemplate.stm
 Load the new `.stm` template in the desired map. Use the mission editor's multiselect tool to move units as needed.
 
 > **📝 Placement Tip:**  
-> To maximize template visibility across maps, place units close to directly beneath the original Neutral Bullseye in your source template.
+> To maximize template visibility across maps, place units close to directly beneath the original Neutral Bullseye in your source template. After converting the file to all environments, when you import the static template, the units will spawn in that relative position to that map’s original Neutral Bullseye.
 
 ---
 
